@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Jha</h1>
 <h3 align="center">A Passionate Software + Full Stack Web developer from Nepal currently Studing in India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thealonemusk&label=Profile%20views&color=0e75b6&style=flat" alt="thealonemusk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thealonemusk&label=Profile%20views&color=0e75b6&style=flat&align=centre" alt="thealonemusk" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thealonemusk" alt="thealonemusk" /></a> </p>
 
