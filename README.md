@@ -31,9 +31,10 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealonemusk&layout=compact&show_icons=true&locale=en&" alt="thealonemusk" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thealonemusk&show_icons=true&locale=en" alt="thealonemusk" /></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealonemusk&layout=compact&theme=rose_pine" alt="Top Langs" width="40%"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=thealonemusk&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="400%" alt="@thealonemusk's github-readme-streak-stats"/></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%"></p>
+<a href=#><img src="contributions.svg"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%"></p>
+
 
