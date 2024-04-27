@@ -31,7 +31,9 @@
 
 ### Want to work together?
 
-`<p align="center">`If you're interested in working together on a project I would love to hear from you! Whether you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me. You can mail me at ashutoshj.cs.21@nitj.ac.in  or use any of the following methods to get in touch:`</p>`
+<p align="center">I
+  f you're interested in working together on a project I would love to hear from you! Whether you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me. You can mail me at ashutoshj.cs.21@nitj.ac.in  or use any of the following methods to get in touch:
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
@@ -57,14 +59,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 
-`<p align="center">`
-  `<img src="https://github-readme-stats.vercel.app/api?username=thealonemusk&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">`
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thealonemusk&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealonemusk&theme=gotham&hide_border=false">
@@ -77,6 +76,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealonemusk&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
