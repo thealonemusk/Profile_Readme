@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/thealonemusk?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=thealonemusk&theme=onestar&no-frame=true&column=3&row=2"  width="75%" alt="@thealonemusk's trophy stats"/></a>
+  <a href="https://github.com/thealonemusk?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=thealonemusk&theme=onestar&no-frame=true&column=3&row=2"  width="50%" alt="@thealonemusk's trophy stats"/></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
