@@ -18,14 +18,6 @@
   <a href="https://github.com/thealonemusk?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=thealonemusk&theme=onestar&no-frame=true&column=3&row=2"  width="50%" alt="@thealonemusk's trophy stats"/></a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://twitter.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thealonemusk" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thealonemusk" height="30" width="40" /></a>
-  <a href="https://instagram.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thealonemusk" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thealonemusk" height="30" width="40" /></a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
@@ -33,6 +25,14 @@
 
 <p align="center">I
   f you're interested in working together on a project I would love to hear from you! Whether you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me. You can mail me at ashutoshj.cs.21@nitj.ac.in  or use any of the following methods to get in touch:
+</p>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://twitter.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thealonemusk" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thealonemusk" height="30" width="40" /></a>
+  <a href="https://instagram.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thealonemusk" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thealonemusk" height="30" width="40" /></a>
 </p>
 
 
